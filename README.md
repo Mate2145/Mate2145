@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mate2145
 - 👀 I’m interested in photography/videography and programming
-- 🌱 I’m currently learning C++,Python
+- 🌱 I’m currently learning Rust,Flutter
 - 📫 How to reach me info.matecreate@gmail.com
 
 <!---

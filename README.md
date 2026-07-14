@@ -18,7 +18,7 @@ Below are some of the projects I've worked on so far mostly built for personal u
 
 * 🍳 **[Gourmet Guru](https://github.com/Mate2145/gourmet_guru)** — My university thesis project: a personalized recipe discovery and generation application designed to simplify everyday meal planning.
 
-* 🐝 **[Mind Hive]* *(currently private)* — A Karpathy-inspired Obsidian vault that uses LLMs to search, connect, and interact with personal knowledge.
+* 🐝 **Mind Hive** *(currently private)* — A Karpathy-inspired Obsidian vault that uses LLMs to search, connect, and interact with personal knowledge.
 
 * 💼 **Career RAG** *(private repository)* — A retrieval-augmented generation tool that analyzes career documents to provide role-fit insights, identify skill gaps, and recommend what to learn next.
 

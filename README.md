@@ -1,22 +1,12 @@
 # Hi, I'm Máté 👋
 
-I'm a backend software engineer interested in building practical tools around **AI, automation, developer tooling, data aggregation, and algorithmic trading**.
+I'm supposedly a backend software engineer, but outside of work I tend to build a bit of everything.
 
-I primarily work with **Python, FastAPI, Flask, Java, MongoDB, AWS, Docker, and event-driven backend systems**.
+I'm curious about technology, how things work, and how they can be used to create **cool stuff that is actually useful** not just more AI slop. I enjoy vibe coding, but I also like reading, understanding, and improving the code behind what I build.
 
-## Current Focus
+Most of my projects start because I want to solve a problem for myself, automate something annoying, or experiment with an idea that seems genuinely interesting. The difficult part in the current AI ecosystem is figuring out what is actually worth building among all the noise, so I try to focus on tools that have a real purpose.
 
-I'm currently experimenting with AI-powered information pipelines, personal knowledge systems, language-learning applications, CLI tools, and automated trading infrastructure.
-
-## What I'm Interested In
-
-* Applied AI and LLM systems
-* AI agents and automated workflows
-* Retrieval-augmented generation
-* CLI and developer tooling
-* Backend and distributed systems
-* Algorithmic trading and market automation
-* Personal knowledge systems
+Below are some of the projects I've worked on so far—mostly built for personal use, but apparently recruiters need something public to look at too.
 
 ## Side Projects
 

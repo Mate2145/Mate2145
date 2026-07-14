@@ -6,7 +6,7 @@ I'm curious about technology, how things work, and how they can be used to creat
 
 Most of my projects start because I want to solve a problem for myself, automate something annoying, or experiment with an idea that seems genuinely interesting. The difficult part in the current AI ecosystem is figuring out what is actually worth building among all the noise, so I try to focus on tools that have a real purpose.
 
-Below are some of the projects I've worked on so far—mostly built for personal use, but apparently recruiters need something public to look at too.
+Below are some of the projects I've worked on so far mostly built for personal use, but apparently recruiters need something public to look at too.
 
 ## Side Projects
 

@@ -10,7 +10,7 @@ Below are some of the projects I've worked on so far mostly built for personal u
 
 ## Side Projects
 
-* 📡 **Alpha Radar** *(currently private)* — A personal market-signal and intelligence aggregator that collects content from RSS feeds or any configured information stream, with modular Telegram and Discord ingestion, extracts relevant entities, filters and scores noisy information, and generates a structured daily Markdown digest.
+* 📡 [Alpha Radar](https://github.com/Mate2145/alpha-radar) — A personal market-signal and intelligence aggregator that collects content from RSS feeds or any configured information stream, with modular Telegram and Discord ingestion, extracts relevant entities, filters and scores noisy information, and generates a structured daily Markdown digest.
 
 * 🌍 **[Lingora](https://github.com/Mate2145/Lingora)** — A vocabulary-focused language-learning web application built around daily practice, initially supporting Serbian and Hungarian.
 
